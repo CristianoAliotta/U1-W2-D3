@@ -388,3 +388,7 @@ footer a {
     font-size: smaller;
   }
 }
+#sium {
+  background-color: transparent;
+  border: 0;
+}
